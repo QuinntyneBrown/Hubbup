@@ -52,4 +52,10 @@
     <TypeScriptCompile Include="Client\Standup\page.tsx" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ClientApp\" />
+    <Folder Include="Features\People\" />
+    <Folder Include="Features\Repositories\" />
+  </ItemGroup>
+
 </Project>
